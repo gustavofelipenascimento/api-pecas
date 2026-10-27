@@ -1,0 +1,12 @@
+{
+  "name": "api-pecas",
+  "version": "1.0.0",
+  "description": "API de CRUD de peças de veículo em Node.js",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
